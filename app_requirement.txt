@@ -1,0 +1,9 @@
+The application should be able to: 
+
+1. Ask user for Name
+2. Generate Password for user
+3. Confirm if the generated password is fine for the user
+4. If the generated password is rejected by the user
+5. Request user to create new password
+6. Password with the following req. 1. Not less than 8 digits 2. Must contain both capital and small letter 3. Must contain special character
+7. Confirm users password after creating and print it for user to see. 
